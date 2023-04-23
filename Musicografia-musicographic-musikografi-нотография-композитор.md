@@ -1,4 +1,4 @@
-Musicografia
+Musicografia musicographic musikografi нотография композитор
 
 [Chordes / аккорды / Acordes](https://aibolem.github.io/BrailleTermWeb/Musicografia/Acordes/Acordes.html)
 
