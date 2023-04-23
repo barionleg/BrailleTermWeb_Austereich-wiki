@@ -1,6 +1,6 @@
 Musicografia musicographic musikografi нотография композитор
 
-[Chordes / аккорды / Acordes](https://aibolem.github.io/BrailleTermWeb/Musicografia/Acordes/Acordes.html)
+[Chordes / аккорды / Acordes](https://aibolem.github.io/BrailleTermWeb_Austereich/Musicografia/Acordes/Acordes.html)
 
 
     > Chordes / аккорды / Acordes/ Notes HOTbI Notas
@@ -31,7 +31,7 @@ Musicografia musicographic musikografi нотография композитор
 
 
 [> Alteration_Record_Note / Изменение_Запись_HOTbl  / Alteracion_Registro_Nota
-](https://aibolem.github.io/BrailleTermWeb/Musicografia/Alteracion_Registro_Nota/Alteracion_Registro_Nota.html)
+](https://aibolem.github.io/BrailleTermWeb_Austereich/Musicografia/Alteracion_Registro_Nota/Alteracion_Registro_Nota.html)
 
 
 > Note / HOTbl  / Nota
@@ -40,13 +40,13 @@ Musicografia musicographic musikografi нотография композитор
 
 change notes from 1 to 49 in adress
 
-[1. >](https://aibolem.github.io/BrailleTermWeb/Musicografia/Alteracion_Registro_Nota/Notas/1.svg)
+[1. >](https://aibolem.github.io/BrailleTermWeb_Austereich/Musicografia/Alteracion_Registro_Nota/Notas/1.svg)
 
 
-[49. >](https://aibolem.github.io/BrailleTermWeb/Musicografia/Alteracion_Registro_Nota/Notas/49.svg)
+[49. >](https://aibolem.github.io/BrailleTermWeb_Austereich/Musicografia/Alteracion_Registro_Nota/Notas/49.svg)
 
 
-[>  Notes Rests Duration  /  HOTbl Продолжительность паузA  /  Notas Silencios Duración](https://aibolem.github.io/BrailleTermWeb/Musicografia/Notas_silencios_duracion/Notas_silencios_duracion.html)
+[>  Notes Rests Duration  /  HOTbl Продолжительность паузA  /  Notas Silencios Duración](https://aibolem.github.io/BrailleTermWeb_Austereich/Musicografia/Notas_silencios_duracion/Notas_silencios_duracion.html)
 
 
 > Note / HOTbl  / Nota
@@ -55,21 +55,21 @@ change notes from 1 to 49 in adress
 
 change notes from 1 to 40 in adress
 
-[1. >](https://aibolem.github.io/BrailleTermWeb/Musicografia/Notas_silencios_duracion/Notas/1.svg)
+[1. >](https://aibolem.github.io/BrailleTermWeb_Austereich/Musicografia/Notas_silencios_duracion/Notas/1.svg)
 
-[40. >](https://aibolem.github.io/BrailleTermWeb/Musicografia/Notas_silencios_duracion/Notas/40.svg)
+[40. >](https://aibolem.github.io/BrailleTermWeb_Austereich/Musicografia/Notas_silencios_duracion/Notas/40.svg)
 
 
 
 > for the blind / для HE / $HE зрячих / para ciegos
 
-[Musicografia/ParaCiegos/Acordes](https://aibolem.github.io/BrailleTermWeb/Musicografia/ParaCiegos/Acordes/Acordes.html)
+[Musicografia/ParaCiegos/Acordes](https://aibolem.github.io/BrailleTermWeb_Austereich/Musicografia/ParaCiegos/Acordes/Acordes.html)
 
 Acordes/audio/
 
 change audio from 1 to 24 in adress
 
-[> 1.](https://aibolem.github.io/BrailleTermWeb/Musicografia/ParaCiegos/Acordes/audio/1.mp3) 
+[> 1.](https://aibolem.github.io/BrailleTermWeb_Austereich/Musicografia/ParaCiegos/Acordes/audio/1.mp3) 
 
 
 
