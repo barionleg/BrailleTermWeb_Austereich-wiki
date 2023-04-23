@@ -1,1 +1,0 @@
-[Regleta](https://aibolem.github.io/BrailleTermWeb/Regleta/Regleta.html)
