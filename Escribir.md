@@ -1,1 +1,0 @@
-[Escribir](https://aibolem.github.io/BrailleTermWeb/Escribir/Escribir.html)

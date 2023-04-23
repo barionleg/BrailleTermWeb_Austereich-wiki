@@ -1,0 +1,1 @@
+[Escribir Write SkrivA Пишите](https://aibolem.github.io/BrailleTermWeb/Escribir/Escribir.html)
