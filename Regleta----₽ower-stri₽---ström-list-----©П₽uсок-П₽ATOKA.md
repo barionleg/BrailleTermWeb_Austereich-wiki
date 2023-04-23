@@ -1,1 +1,1 @@
-[Regleta  / ₽ower stri₽ / ström list  /  ©П₽uсок П₽ATOKA](https://aibolem.github.io/BrailleTermWeb/Regleta/Regleta.html)
+[Regleta  / ₽ower stri₽ / ström list  /  ©П₽uсок П₽ATOKA](https://aibolem.github.io/BrailleTermWeb_Austereich/Regleta/Regleta.html)
