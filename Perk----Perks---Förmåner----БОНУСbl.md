@@ -1,1 +1,1 @@
-[Perk  / Perks / Förmåner /  БОНУСbl ](https://aibolem.github.io/BrailleTermWeb/Perk/Perk.html)
+[Perk  / Perks / Förmåner /  БОНУСbl ](https://aibolem.github.io/BrailleTermWeb_Austereich/Perk/Perk.html)
