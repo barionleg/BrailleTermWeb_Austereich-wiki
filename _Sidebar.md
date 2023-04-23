@@ -1,1 +1,1 @@
-[Regleta28](https://aibolem.github.io/BrailleTermWeb/Regleta/Regleta28.html)
+[Regleta28](https://aibolem.github.io/BrailleTermWeb_Austereich/Regleta/Regleta28.html)
