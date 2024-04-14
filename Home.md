@@ -5,4 +5,6 @@ Welcome to the BrailleTermWeb wiki!
 
 https://github.com/oliver-almaraz/BrailleTermWeb_Austereich/search?l=html
 
-![image](https://github.com/aibolem/BrailleTermWeb_Austereich/assets/102619282/ecd2725d-fc15-4c88-ab90-68111ec91afc)
+![image](https://github.com/aibolem/BrailleTermWeb_Austereich/assets/102619282/bd89ec7e-8f93-43f2-b1e6-a8cffd18f36a)
+
+Кон©ЕА℞ТНО  OH²TRÆ©н²оk known like "EARTH"
