@@ -5,6 +5,8 @@ Austereich = Automatic speech translations / tålkning & auf anderem 🌎 planet
 
 Mjau!
 
+ჼARvey LÄvan "Van" ©liвurn on m'Other 🌏 ჼÅ₽£ÅNЭ€T, boende vridande planet, 🥟 где БАРЛიнÄЭ€г ::: explain later
+
 https://aibolem.github.io/BrailleTermWeb_Austereich/braille_ru/index.html
 
 https://aibolem.github.io/BrailleTermWeb_Austereich/braille_ru/Text_v_braille/text_v_braille.html
