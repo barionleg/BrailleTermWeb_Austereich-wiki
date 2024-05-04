@@ -1,6 +1,6 @@
 https://aibolem.github.io/BrailleTermWeb_Austereich/braille_ru/bonus/bonus.html
 
-![image](https://github.com/aibolem/BrailleTermWeb_Austereich/assets/102619282/8a282599-a7c1-4e48-a22d-c9a06dc93c28)
+![image](https://github.com/aibolem/BrailleTermWeb_Austereich/assets/102619282/9c13d0c5-a06b-43e8-9c53-42108781bc52)
 
 перевод ₽_РО©СКИЙ = П_₽у©кий, ₽_RußiAჼ [wordiginal Fysi©hemiЭ€], Рокский
 
