@@ -5,7 +5,7 @@ Austereich = Automatik u ©те℞ео tÅLKnINg E ჼREI©h; by the way on othe
 
 *[ect] = ectettera ...
 
-bareliefet som syns nere
+jetoH bareliefet som syns nere
 
 
 https://aibolem.github.io/Image-to-Braille_Austereich/
