@@ -5,6 +5,7 @@ Musicografia musicographic musikografi нотография композитор
 
     > Chordes / аккорды / Acordes/ Notes HOTbI Notas
 [1. >](https://aibolem.github.io/BrailleTermWeb_Austereich/braille_ru/muzbIka/AkkopdbI/HoTbI/1.svg)
+
 [2. >](https://aibolem.github.io/BrailleTermWeb_Austereich/braille_ru/muzbIka/AkkopdbI/HoTbI/2.svg)
 [3. >](https://aibolem.github.io/BrailleTermWeb_Austereich/braille_ru/muzbIka/AkkopdbI/HoTbI/3.svg)
 [4. >](https://aibolem.github.io/BrailleTermWeb_Austereich/braille_ru/muzbIka/AkkopdbI/HoTbI/4.svg)
@@ -31,7 +32,7 @@ Musicografia musicographic musikografi нотография композитор
 
 
 [> Alteration_Record_Note / Изменение_Запись_HOTbl  / Alteracion_Registro_Nota
-](https://aibolem.github.io/braille_ru/muzbIka/Alteracia_Registr_HoTbI/Alteracia_Registr_HoTbI.html)
+](https://aibolem.github.io/BrailleTermWeb_Austereich/braille_ru/muzbIka/Alteracia_Registr_HoTbI/Alteracia_Registr_HoTbI.html)
 
 
 > Note / HOTbl  / Nota
