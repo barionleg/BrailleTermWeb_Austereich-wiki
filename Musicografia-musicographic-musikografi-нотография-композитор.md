@@ -7,27 +7,49 @@ Musicografia musicographic musikografi нотография композитор
 [1. >](https://aibolem.github.io/BrailleTermWeb_Austereich/braille_ru/muzbIka/AkkopdbI/HoTbI/1.svg)
 
 [2. >](https://aibolem.github.io/BrailleTermWeb_Austereich/braille_ru/muzbIka/AkkopdbI/HoTbI/2.svg)
+
 [3. >](https://aibolem.github.io/BrailleTermWeb_Austereich/braille_ru/muzbIka/AkkopdbI/HoTbI/3.svg)
+
 [4. >](https://aibolem.github.io/BrailleTermWeb_Austereich/braille_ru/muzbIka/AkkopdbI/HoTbI/4.svg)
+
 [5. >](https://aibolem.github.io/BrailleTermWeb_Austereich/braille_ru/muzbIka/AkkopdbI/HoTbI/5.svg)
+
 [6. >](https://aibolem.github.io/BrailleTermWeb_Austereich/braille_ru/muzbIka/AkkopdbI/HoTbI/6.svg)
+
 [7. >](https://aibolem.github.io/BrailleTermWeb_Austereich/braille_ru/muzbIka/AkkopdbI/HoTbI/7.svg)
+
 [8. >](https://aibolem.github.io/BrailleTermWeb_Austereich/braille_ru/muzbIka/AkkopdbI/HoTbI/8.svg)
+
 [9. >](https://aibolem.github.io/BrailleTermWeb_Austereich/braille_ru/muzbIka/AkkopdbI/HoTbI/9.svg)
+
 [10. >](https://aibolem.github.io/BrailleTermWeb_Austereich/braille_ru/muzbIka/AkkopdbI/HoTbI/10.svg)
+
 [11. >](https://aibolem.github.io/BrailleTermWeb_Austereich/braille_ru/muzbIka/AkkopdbI/HoTbI/11.svg)
+
 [12. >](https://aibolem.github.io/BrailleTermWeb_Austereich/braille_ru/muzbIka/AkkopdbI/HoTbI/12.svg)
+
 [13. >](https://aibolem.github.io/BrailleTermWeb_Austereich/braille_ru/muzbIka/AkkopdbI/HoTbI/13.svg)
+
 [14. >](https://aibolem.github.io/BrailleTermWeb_Austereich/braille_ru/muzbIka/AkkopdbI/HoTbI/14.svg)
+
 [15. >](https://aibolem.github.io/BrailleTermWeb_Austereich/braille_ru/muzbIka/AkkopdbI/HoTbI/15.svg)
+
 [16. >](https://aibolem.github.io/BrailleTermWeb_Austereich/braille_ru/muzbIka/AkkopdbI/HoTbI/16.svg)
+
 [17. >](https://aibolem.github.io/BrailleTermWeb_Austereich/braille_ru/muzbIka/AkkopdbI/HoTbI/17.svg)
+
 [18. >](https://aibolem.github.io/BrailleTermWeb_Austereich/braille_ru/muzbIka/AkkopdbI/HoTbI/18.svg)
+
 [19. >](https://aibolem.github.io/BrailleTermWeb_Austereich/braille_ru/muzbIka/AkkopdbI/HoTbI/19.svg)
+
 [20. >](https://aibolem.github.io/BrailleTermWeb_Austereich/braille_ru/muzbIka/AkkopdbI/HoTbI/20.svg)
+
 [21. >](https://aibolem.github.io/BrailleTermWeb_Austereich/braille_ru/muzbIka/AkkopdbI/HoTbI/21.svg)
+
 [22. >](https://aibolem.github.io/BrailleTermWeb_Austereich/braille_ru/muzbIka/AkkopdbI/HoTbI/22.svg)
+
 [23. >](https://aibolem.github.io/BrailleTermWeb_Austereich/braille_ru/muzbIka/AkkopdbI/HoTbI/23.svg)
+
 [24. >](https://aibolem.github.io/BrailleTermWeb_Austereich/braille_ru/muzbIka/AkkopdbI/HoTbI/24.svg)
 
 
