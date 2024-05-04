@@ -92,7 +92,19 @@ Acordes/audio/
 
 change audio from 1 to 24 in adress
 
-[> 1.](https://aibolem.github.io/braille_ru/muzbIka/dlja_He_zpjachix/AkkopdbI/audio/1.mp3) 
+[> 1.](https://aibolem.github.io/BrailleTermWeb_Austereich/braille_ru/muzbIka/dlja_He_zpjachix/AkkopdbI/audio/1.mp3) 
+
+[> 2.](https://aibolem.github.io/BrailleTermWeb_Austereich/braille_ru/muzbIka/dlja_He_zpjachix/AkkopdbI/audio/2.mp3) 
+
+[> 3.](https://aibolem.github.io/BrailleTermWeb_Austereich/braille_ru/muzbIka/dlja_He_zpjachix/AkkopdbI/audio/3.mp3) 
+
+[> 4.](https://aibolem.github.io/BrailleTermWeb_Austereich/braille_ru/muzbIka/dlja_He_zpjachix/AkkopdbI/audio/4.mp3) 
+
+plus 20 files / links: https://aibolem.github.io/BrailleTermWeb_Austereich/braille_ru/muzbIka/dlja_He_zpjachix/AkkopdbI/audio/5.mp3 there you just have to change 5 to 6, after listening 6 to 7 etc ...
+
+or, when I have a time vill put more 20 links ...
+
+
 
 
 
